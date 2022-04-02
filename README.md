@@ -1,6 +1,6 @@
 # Canada r/place Template Overlay
 
-![image](https://user-images.githubusercontent.com/18311413/161367188-ca5e355c-b67e-41c7-891d-88dc46d80e9d.png)
+![image](https://user-images.githubusercontent.com/18311413/161397476-fb9b6458-ad64-42e5-a280-d49ddd5fd1b0.png)
 
 
 # Installation Tutorial
