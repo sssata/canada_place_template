@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         r/place Canada Template
+// @name         r/place Tagpro Template
 // @namespace    http://tampermonkey.net/
 // @version      0.1
 // @description  eh
