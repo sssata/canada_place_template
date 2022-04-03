@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         r/place Canada Template
 // @namespace    http://tampermonkey.net/
-// @version      0.1
+// @version      0.2
 // @description  eh
 // @author       oralekin, sssata, irisxyzabc
 // @match        https://hot-potato.reddit.com/embed*
