@@ -1,4 +1,4 @@
-# Canada r/place Template Overlay
+# XQC r/place Template Overlay
 
 ![image](https://user-images.githubusercontent.com/18311413/161412059-be821dba-7282-4dd1-91d7-510ee7a0943f.png)
 
