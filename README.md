@@ -2,7 +2,7 @@
 
 This userscript gives a template for placing down a nice Canadian flag, neat!
 
-![image](https://user-images.githubusercontent.com/18311413/161397476-fb9b6458-ad64-42e5-a280-d49ddd5fd1b0.png)
+![image](https://i.gyazo.com/f1b7aa742ece5b1c09d028133f03d380.png)
 
 ## Installation Tutorial
 
