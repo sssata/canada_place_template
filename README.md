@@ -1,9 +1,4 @@
 # Canada r/place Template Overlay
-
-This userscript gives a template for placing down a nice Canadian flag, neat!
-
-![image](https://i.gyazo.com/f1b7aa742ece5b1c09d028133f03d380.png)
-
 ## Installation Tutorial
 
 1. Install Tampermonkey on [Chrome/Opera](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo?hl=en) or Violentmonkey on [Firefox](https://addons.mozilla.org/en-US/firefox/addon/violentmonkey/).
@@ -13,3 +8,6 @@ This userscript gives a template for placing down a nice Canadian flag, neat!
 3. Go back to r/place and refresh the page.
 
 4. Place some pixels in the templated areas!
+
+## IF YOU CANT SET UP OVERLAY, USE THIS AS REFERENCE IMAGE :
+![image](https://i.gyazo.com/f1b7aa742ece5b1c09d028133f03d380.png)
