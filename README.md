@@ -1,4 +1,4 @@
-# Canada r/place Template Overlay
+# r/placecanada Template Overlay
 ## Installation Tutorial
 
 1. Install Tampermonkey on [Chrome/Opera](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo?hl=en) or Violentmonkey on [Firefox](https://addons.mozilla.org/en-US/firefox/addon/violentmonkey/).
