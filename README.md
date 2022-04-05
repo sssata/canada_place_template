@@ -10,4 +10,4 @@
 4. Place some pixels in the templated areas!
 
 ## IF YOU CANT SET UP OVERLAY, USE THIS AS REFERENCE IMAGE :
-![image](https://i.gyazo.com/4363822128942b7a32871ef9cf03f446.png)
+![image](https://i.gyazo.com/483791af2f6167372185c0dca998bea7.png)
